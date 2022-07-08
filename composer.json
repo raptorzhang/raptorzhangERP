@@ -1,0 +1,14 @@
+{
+    "name": "raptor/test",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "raptorzhang",
+            "email": "raptorzhang@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
